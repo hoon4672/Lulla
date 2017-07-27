@@ -1,0 +1,47 @@
+resume statistic dashboard with money values
+
+Toaster
+
+- desktop app link and page
+
+- Orderbook
+    - show untrusted assets
+
+- Payments
+    - limit
+    - order
+    - full page
+
+- trades
+- manage concurrent operations
+
+- https://github.com/thejameskyle/babel-react-optimize
+
+- Expand views
+  - prop isExpanded
+
+- Offers
+    - edit offer
+
+- Asset picker/ Redux-forms
+
+- operations
+  - multisign
+  - inflation
+
+- custom horizon
+- Balances
+  - QR code show/read
+  - allow trust
+
+- Manage Data page
+ - Add/Remove/edit
+
+- Name
+- Electron
+
+- Accounts
+    - Multi accounts with labels and types
+    - Store encrypted in local storage
+    - increment sequence number for concurrent multioperations
+    - Contacts
