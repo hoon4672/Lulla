@@ -1,6 +1,6 @@
 
 # Stellar Portal
-[![Build Status](https://travis-ci.org/pakokrew/stellar-portal)]
+[![Build Status](https://github.com/hoon4672/Stellar-portal.git?branch=master)](https://github.com/hoon4672/Stellar-portal)
 
 > Stellar portal is a decentralized web app to access [Stellar Network](https://www.stellar.org). It does not require any backend and only use [Horizon API](https://www.stellar.org/developers/reference).
 
